@@ -11,3 +11,4 @@
 - Morongo “currently under way / January 2018” copy treated as stale; named project kept, current-tense claim omitted.
 - Implemented Next.js App Router demo with first-party photography, operator `/outreach`, and capture package.
 - Phone CTAs use the live-site number (909) 730-8523; CSLB number documented as a conflict only.
+- Production: https://ameri-climate-hvac-demo.vercel.app/ (Next.js project). An older Vercel project named `ameri-climate-demo` was TanStack-configured and was not reused.

@@ -3,7 +3,7 @@ import type { MetadataRoute } from "next";
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: "https://ameri-climate-demo.vercel.app/",
+      url: "https://ameri-climate-hvac-demo.vercel.app/",
       lastModified: new Date(),
     },
   ];

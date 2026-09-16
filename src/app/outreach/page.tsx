@@ -42,7 +42,18 @@ export default function OutreachPage() {
             </a>
           </li>
           <li>Contact: (909) 730-8523 · info@ameri-climate.com · /contact</li>
-          <li>GitHub: Novenworks/Ameri-Climate-Demo</li>
+          <li>
+            GitHub:{" "}
+            <a className="underline" href="https://github.com/Novenworks/Ameri-Climate-Demo">
+              Novenworks/Ameri-Climate-Demo
+            </a>
+          </li>
+          <li>
+            Deployed:{" "}
+            <a className="underline" href="https://ameri-climate-hvac-demo.vercel.app/">
+              https://ameri-climate-hvac-demo.vercel.app/
+            </a>
+          </li>
           <li>CSLB #958444, current and active, C-20 and B (official lookup 2026-09-15)</li>
           <li>
             Agency: no visible web-design studio credit. Footer says “Powered by Squarespace.”
@@ -155,7 +166,7 @@ I looked at ameri-climate.com while researching commercial HVAC contractors in t
 
 Novenworks built a speculative redesign (not a pitch that you hired us) that puts your own jobsite photography and CSLB #958444 in front of a project buyer, then makes it obvious how to request information.
 
-Demo: [DEPLOYED_URL]
+Demo: https://ameri-climate-hvac-demo.vercel.app/
 Original: https://www.ameri-climate.com/
 
 If it is useful, I am happy to walk through it. If not, no follow-up needed.
@@ -165,7 +176,7 @@ Novenworks`}
         </pre>
         <h3 className="pt-2 font-semibold">Follow-up</h3>
         <pre className="whitespace-pre-wrap rounded-sm bg-[var(--paper)] p-4 text-[13px] leading-relaxed">
-{`Joe — short follow-up on the Ameri-Climate concept site. It is still up at [DEPLOYED_URL] if you want a look at how your gallery photos read as a commercial contractor homepage. Happy to take it down or leave it as a reference.`}
+{`Joe — short follow-up on the Ameri-Climate concept site. It is still up at https://ameri-climate-hvac-demo.vercel.app/ if you want a look at how your gallery photos read as a commercial contractor homepage. Happy to take it down or leave it as a reference.`}
         </pre>
       </section>
 
