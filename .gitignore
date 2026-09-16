@@ -46,3 +46,4 @@ tmp-capture/
 *.tsbuildinfo
 next-env.d.ts
 public/assets/assets/
+.vercel
