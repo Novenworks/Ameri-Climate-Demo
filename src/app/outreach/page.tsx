@@ -154,29 +154,38 @@ export default function OutreachPage() {
           Subject lines
         </h2>
         <ol className="list-decimal space-y-1 pl-5">
-          <li>Joe — a concept site for Ameri-Climate’s commercial work</li>
-          <li>Your rooftop photos never make the homepage</li>
-          <li>Staybridge, Vandenberg, and a clearer first impression</li>
+          <li>Joe, I made something for Ameri-Climate HVAC</li>
+          <li>had an idea for Ameri-Climate HVAC</li>
+          <li>quick thing I built for Ameri-Climate HVAC</li>
         </ol>
         <h3 className="pt-4 font-semibold">Cold email</h3>
         <pre className="whitespace-pre-wrap rounded-sm bg-[var(--paper)] p-4 text-[13px] leading-relaxed">
-{`Joe —
+{`Hi Joe,
 
-I looked at ameri-climate.com while researching commercial HVAC contractors in the Inland Empire. The work you list — Staybridge in Anaheim, hospitality jobs down the 10 and 15, county work, Vandenberg — is a different business than the short Squarespace page currently implies.
+Random cold email, but I found Ameri-Climate HVAC and got curious.
 
-Novenworks built a speculative redesign (not a pitch that you hired us) that puts your own jobsite photography and CSLB #958444 in front of a project buyer, then makes it obvious how to request information.
+I went through the site for a bit and had an idea for a cleaner way to show the business, so I mocked it up.
 
-Demo: https://ameri-climate-hvac-demo.vercel.app/
-Original: https://www.ameri-climate.com/
+https://ameri-climate-demo.vercel.app
 
-If it is useful, I am happy to walk through it. If not, no follow-up needed.
+I kept it based on what you already have and tried to make the strongest parts easier to get in a few seconds.
 
-Vince
+Figured I'd send it over rather than over-explain it.
+
+Vincent
 Novenworks`}
         </pre>
         <h3 className="pt-2 font-semibold">Follow-up</h3>
         <pre className="whitespace-pre-wrap rounded-sm bg-[var(--paper)] p-4 text-[13px] leading-relaxed">
-{`Joe — short follow-up on the Ameri-Climate concept site. It is still up at https://ameri-climate-hvac-demo.vercel.app/ if you want a look at how your gallery photos read as a commercial contractor homepage. Happy to take it down or leave it as a reference.`}
+{`Hi Joe,
+
+Just bumping this once in case it got buried. I made that Ameri-Climate HVAC homepage concept and figured you might at least be curious to see how it came out.
+
+https://ameri-climate-demo.vercel.app
+
+All good if now isn't the time. Just wanted to make sure you saw it.
+
+Vincent`}
         </pre>
       </section>
 
