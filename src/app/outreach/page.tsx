@@ -154,10 +154,10 @@ export default function OutreachPage() {
           Subject lines
         </h2>
         <ol className="list-decimal space-y-1 pl-5">
-          <li>Joe, I made something for Ameri-Climate HVAC</li>
-          <li>had an idea for Ameri-Climate HVAC</li>
-          <li>quick thing I built for Ameri-Climate HVAC</li>
-        </ol>
+            <li>Joe, I made something for Ameri-Climate HVAC</li>
+            <li>Had an idea for Ameri-Climate HVAC</li>
+            <li>Tried something with the Ameri-Climate HVAC site</li>
+          </ol>
         <h3 className="pt-4 font-semibold">Cold email</h3>
         <pre className="whitespace-pre-wrap rounded-sm bg-[var(--paper)] p-4 text-[13px] leading-relaxed">
 {`Hi Joe,
