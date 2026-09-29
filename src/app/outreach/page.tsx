@@ -166,7 +166,7 @@ Random cold email, but I found Ameri-Climate HVAC and got curious.
 
 I went through the site for a bit and had an idea for a cleaner way to show the business, so I mocked it up.
 
-https://ameri-climate-demo.vercel.app
+https://ameri-climate-hvac-demo.vercel.app
 
 I kept it based on what you already have and tried to make the strongest parts easier to get in a few seconds.
 
@@ -181,7 +181,7 @@ Novenworks`}
 
 Just bumping this once in case it got buried. I made that Ameri-Climate HVAC homepage concept and figured you might at least be curious to see how it came out.
 
-https://ameri-climate-demo.vercel.app
+https://ameri-climate-hvac-demo.vercel.app
 
 All good if now isn't the time. Just wanted to make sure you saw it.
 
