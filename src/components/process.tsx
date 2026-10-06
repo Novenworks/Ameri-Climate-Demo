@@ -27,7 +27,7 @@ export function Process() {
             How a conversation starts
           </p>
           <h2 className="mt-3 font-[family-name:var(--font-display)] text-3xl font-semibold tracking-tight md:text-4xl">
-            A simple path, taken from how they already ask to be contacted.
+            A simple path from first call to next steps.
           </h2>
           <ol className="mt-8 space-y-6">
             {steps.map((step) => (

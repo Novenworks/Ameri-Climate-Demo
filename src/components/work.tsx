@@ -9,10 +9,10 @@ export function Work() {
           Previous projects
         </p>
         <h2 className="mt-3 max-w-3xl font-[family-name:var(--font-display)] text-3xl font-semibold tracking-tight text-[var(--navy)] md:text-4xl">
-          Named commercial work, plus the jobsite photography already on the first-party site.
+          Named commercial work and jobsite photography from our projects.
         </h2>
         <p className="mt-4 max-w-2xl text-base leading-relaxed text-[var(--ink)]">
-          Project names below come from Ameri-Climate’s current website. Gallery photos are labeled as they appear — we do not rename a building to match a different project.
+          Each photo is labeled with the building it shows.
         </p>
 
         <div className="mt-10 grid gap-4 md:grid-cols-2">
@@ -32,7 +32,7 @@ export function Work() {
                 Hospitality jobsite — TownePlace Suites
               </p>
               <p className="mt-1 max-w-xl text-sm text-white/85">
-                First-party About gallery. Branding is visible in the photograph; this is not relabeled as another hotel.
+                TownePlace Suites jobsite. Hotel branding is visible in the photograph.
               </p>
             </figcaption>
           </figure>
@@ -92,7 +92,7 @@ export function Work() {
               sizes="(max-width: 768px) 100vw, 50vw"
             />
             <figcaption className="absolute inset-x-0 bottom-0 bg-[var(--navy)]/80 p-4 text-sm text-white">
-              Rooftop equipment during install — first-party gallery
+              Rooftop equipment during install
             </figcaption>
           </figure>
           <figure className="relative min-h-[260px] overflow-hidden">
@@ -104,7 +104,7 @@ export function Work() {
               sizes="(max-width: 768px) 100vw, 50vw"
             />
             <figcaption className="absolute inset-x-0 bottom-0 bg-[var(--navy)]/80 p-4 text-sm text-white">
-              Victorville — first-party gallery photography
+              Victorville jobsite
             </figcaption>
           </figure>
         </div>
