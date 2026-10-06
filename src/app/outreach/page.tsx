@@ -154,23 +154,28 @@ export default function OutreachPage() {
           Subject lines
         </h2>
         <ol className="list-decimal space-y-1 pl-5">
-            <li>Joe, I made something for Ameri-Climate HVAC</li>
-            <li>Had an idea for Ameri-Climate HVAC</li>
-            <li>Tried something with the Ameri-Climate HVAC site</li>
+            <li>Joe, a homepage idea for Ameri-Climate that shows the hotel and base work</li>
+            <li>Ameri-Climate homepage concept</li>
+            <li>An idea for the Ameri-Climate site</li>
           </ol>
+        <p className="text-xs opacity-70">
+          Send to info@ameri-climate.com (published on ameri-climate.com homepage and /contact; verified 2026-10-06). Send the demo root URL, not this page.
+        </p>
         <h3 className="pt-4 font-semibold">Cold email</h3>
         <pre className="whitespace-pre-wrap rounded-sm bg-[var(--paper)] p-4 text-[13px] leading-relaxed">
 {`Hi Joe,
 
-Random cold email, but I found Ameri-Climate HVAC and got curious.
+I was on ameri-climate.com. The business behind it is strong: commercial HVAC out of Yucaipa, hotel work across Southern California, and Air Force base work that needed clearances. What stood out is that the homepage is the logo and a phone number, so the hotel and base work never shows up in front of a facilities manager or general contractor.
 
-I went through the site for a bit and had an idea for a cleaner way to show the business, so I mocked it up.
+I put together a concept homepage that puts those projects up front and makes calling the obvious next step:
 
 https://ameri-climate-demo.vercel.app
 
-I kept it based on what you already have and tried to make the strongest parts easier to get in a few seconds.
+It is an unsolicited demo. It is not on your domain, and the form does not send anything to you.
 
-Figured I'd send it over rather than over-explain it.
+If you like it, I handle the work: the copy, the build, mobile polish, connecting your existing phone and email contact path, technical setup, and launch. You review and approve.
+
+Want me to send over the full breakdown of what you get and what it costs?
 
 Vincent
 Novenworks`}
@@ -179,11 +184,11 @@ Novenworks`}
         <pre className="whitespace-pre-wrap rounded-sm bg-[var(--paper)] p-4 text-[13px] leading-relaxed">
 {`Hi Joe,
 
-Just bumping this once in case it got buried. I made that Ameri-Climate HVAC homepage concept and figured you might at least be curious to see how it came out.
+Following up on the Ameri-Climate concept homepage: https://ameri-climate-demo.vercel.app
 
-https://ameri-climate-demo.vercel.app
+If it is not useful, tell me and I will take it down.
 
-All good if now isn't the time. Just wanted to make sure you saw it.
+Want me to send over the full breakdown of what you get and what it costs?
 
 Vincent`}
         </pre>

@@ -12,9 +12,9 @@ export function SecondaryCapabilities() {
             Heating. Ventilation. Air conditioning.
           </h2>
           <p className="mt-4 max-w-xl text-base leading-relaxed text-[var(--ink)]">
-            CSLB classifies the company C-20 for warm-air heating, ventilating, and air-conditioning,
-            with a B general building classification. The live site describes project-based
-            commercial HVAC work — not a list of residential tune-up packages.
+            We are classified by the CSLB C-20 for warm-air heating, ventilating, and air-conditioning,
+            with a B general building classification. Our work is project-based commercial HVAC,
+            not residential tune-up packages.
           </p>
         </div>
         <div className="relative aspect-[16/10] overflow-hidden">

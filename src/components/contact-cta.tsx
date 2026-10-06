@@ -22,8 +22,8 @@ export function ContactCta() {
             Request project information.
           </h2>
           <p className="mt-4 max-w-xl text-base leading-relaxed text-white/85">
-            The current business asks visitors to describe upcoming jobs and says they reply within
-            one to two business days. Office hours: {site.hours}.
+            Tell us about your upcoming job and we will help you with the next steps. Office hours:
+            {" "}{site.hours}.
           </p>
           <ul className="mt-8 space-y-3 text-sm">
             <li>

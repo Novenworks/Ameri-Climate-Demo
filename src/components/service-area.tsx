@@ -23,9 +23,8 @@ export function ServiceArea() {
             Southern California commercial projects, from a Yucaipa office.
           </h2>
           <p className="mt-4 text-base leading-relaxed text-[var(--ink)]">
-            First-party copy describes a commercial contractor throughout the Southern California
-            region. The list below is only places the current site already names — or photographs —
-            not a claimed service radius.
+            We are a commercial contractor serving the Southern California region. The places
+            below are where we have worked.
           </p>
           <ul className="mt-6 grid grid-cols-2 gap-2 text-sm font-semibold text-[var(--navy)]">
             {places.map((place) => (

@@ -28,9 +28,9 @@ export function About() {
               into a solely commercial air conditioning contractor throughout Southern California.
             </p>
             <p>
-              First-party copy says the work expands from hotels to county jobs to Air Force bases.
-              Every job is described as being worked with respect and quality, with a mission to
-              serve clients with work that shows excellence.
+              Our work runs from hotels to county jobs to Air Force bases. We approach every job
+              with respect and quality, and our mission is to serve clients with work that shows
+              excellence.
             </p>
             <p>
               California CSLB license {site.cslb} is published on the current website. Official

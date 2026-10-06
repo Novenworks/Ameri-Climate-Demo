@@ -3,13 +3,13 @@ import Image from "next/image";
 const capabilities = [
   {
     title: "Hospitality HVAC",
-    body: "Project HVAC for hotels and similar lodging — guest-room systems, rooftop equipment, and the mechanical work those buildings require. First-party named work includes Staybridge Suites, Hampton Inn & Suites, Holiday Inn Express, and Home2Suites.",
+    body: "Project HVAC for hotels and similar lodging — guest-room systems, rooftop equipment, and the mechanical work those buildings require. Our work includes Staybridge Suites, Hampton Inn & Suites, Holiday Inn Express, and Home2Suites.",
     image: "/assets/first-party/gallery-2C5A1595.jpg",
     alt: "TownePlace Suites hotel facade with through-wall HVAC from Ameri-Climate’s gallery",
   },
   {
     title: "Public-sector and secured sites",
-    body: "The company lists county jobs and Air Force base work. On Vandenberg, the first-party site says the project required special certifications and background clearances to enter the base and work as a civilian partner.",
+    body: "We have done county jobs and Air Force base work. On Vandenberg, the project required special certifications and background clearances to enter the base and work as a civilian partner.",
     image: "/assets/first-party/gallery-2C5A1643.jpg",
     alt: "Open commercial HVAC control cabinet photographed on an Ameri-Climate job",
   },

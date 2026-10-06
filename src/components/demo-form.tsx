@@ -34,7 +34,7 @@ export function DemoForm() {
           <a className="underline" href={site.emailHref}>
             {site.email}
           </a>
-          . Their current site says they reply within one to two business days.
+          .
         </p>
       </div>
     );
