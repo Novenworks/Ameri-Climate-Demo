@@ -154,7 +154,7 @@ export default function OutreachPage() {
           Subject lines
         </h2>
         <ol className="list-decimal space-y-1 pl-5">
-            <li>Joe, a homepage idea for Ameri-Climate that shows the hotel and base work</li>
+            <li>Joe, a homepage idea that puts the Ameri-Climate hotel and base work up front</li>
             <li>Ameri-Climate homepage concept</li>
             <li>An idea for the Ameri-Climate site</li>
           </ol>
@@ -165,11 +165,11 @@ export default function OutreachPage() {
         <pre className="whitespace-pre-wrap rounded-sm bg-[var(--paper)] p-4 text-[13px] leading-relaxed">
 {`Hi Joe,
 
-I was on ameri-climate.com. The business behind it is strong: commercial HVAC out of Yucaipa, hotel work across Southern California, and Air Force base work that needed clearances. What stood out is that the homepage is the logo and a phone number, so the hotel and base work never shows up in front of a facilities manager or general contractor.
+I was on ameri-climate.com. The business behind it is strong: commercial HVAC out of Yucaipa, hotel work across Southern California, and Air Force base work that needed clearances. What stood out is that the page opens on the logo twice, and the hotel and base projects sit further down as text, so a facilities manager or general contractor has to scroll to find the work.
 
-I put together a concept homepage that puts those projects up front and makes calling the obvious next step:
+I put together a concept homepage that puts those projects up front with photos and makes calling the obvious next step:
 
-https://ameri-climate-demo.vercel.app
+https://ameri-climate-hvac-demo.vercel.app
 
 It is an unsolicited demo. It is not on your domain, and the form does not send anything to you.
 
@@ -184,7 +184,7 @@ Novenworks`}
         <pre className="whitespace-pre-wrap rounded-sm bg-[var(--paper)] p-4 text-[13px] leading-relaxed">
 {`Hi Joe,
 
-Following up on the Ameri-Climate concept homepage: https://ameri-climate-demo.vercel.app
+Following up on the Ameri-Climate concept homepage: https://ameri-climate-hvac-demo.vercel.app
 
 If it is not useful, tell me and I will take it down.
 
